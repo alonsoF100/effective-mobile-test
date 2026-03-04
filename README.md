@@ -41,3 +41,5 @@ Content-Type: text/plain; charset=utf-8
 Content-Length: 28
 Connection: keep-alive
 ```
+
+**Результат работы можно увидеть в файле working.png**
